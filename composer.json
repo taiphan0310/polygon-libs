@@ -8,6 +8,12 @@
             "email": "taiphan0310@gmail.com"
         }
     ],
+    "repositories":[
+        {
+            "type": "vcs",
+            "url": "git@github.com:taiphan0310/polygon-libs.git"
+        }
+    ],
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
