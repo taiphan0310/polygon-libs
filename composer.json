@@ -1,0 +1,20 @@
+{
+    "name": "taiphan/polygon-libs",
+    "description": "Polygon libs",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Phan Huu Tai",
+            "email": "taiphan0310@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "PolygonLibs\\Core\\": "src/core",
+            "PolygonLibs\\Config\\": "src/configs",
+            "PolygonLibs\\Function\\" : "src/Function/functions"
+        }
+    },
+    "require": {}
+}
